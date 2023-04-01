@@ -1,0 +1,13 @@
+body  {
+    margin: 0;
+    #digi_background {
+        min-height: 100vh;
+        .digi_left { 
+            background-color: #023047;
+            position: fixed;
+            height: 100vh;
+            width: 25%;
+        }
+        .digi_right { background-color: chocolate;}
+    } 
+}

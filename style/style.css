@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+}
+
+body #digi_background {
+  min-height: 100vh;
+}
+
+body #digi_background .digi_left {
+  background-color: #023047;
+  position: fixed;
+  height: 100vh;
+  width: 25%;
+}
+
+body #digi_background .digi_right {
+  background-color: chocolate;
+}
+/*# sourceMappingURL=style.css.map */
